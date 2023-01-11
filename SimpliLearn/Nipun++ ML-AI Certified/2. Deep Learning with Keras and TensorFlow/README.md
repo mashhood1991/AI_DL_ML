@@ -1,4 +1,3 @@
-# 2. Deep Learning with Keras and TensorFlow
 ## Theory:
 ## Notebooks:
 2.1 TensorFlow Hello World.ipynb  
