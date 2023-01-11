@@ -1,4 +1,6 @@
-Deep Learning with Keras and TensorFlow Notebooks:
-2.1 TensorFlow Hello World.ipynb
-2.2 Linear Regression with TensorFlow.ipynb
+# 2. Deep Learning with Keras and TensorFlow
+## Theory:
+## Notebooks:
+2.1 TensorFlow Hello World.ipynb  
+2.2 Linear Regression with TensorFlow.ipynb  
 2.6 Logistic Regression with TensorFlow.ipynb
